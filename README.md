@@ -42,3 +42,5 @@ __2차__
 [교육 커리 큘럼](https://www.baeulang.kr/bbs/board.php?bo_table=AI&wr_id=16&sca=부산)을 통해 자세한 교육 과정을 확인할 수 있습니다.
 
 
+### 설문조사 링크
+
