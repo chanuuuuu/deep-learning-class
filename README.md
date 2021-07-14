@@ -44,4 +44,4 @@ __2차__
 
 ### 설문조사 링크
 
-[구글 설문 링크](https://forms.gle/pkMJK3DfPaPazVFk6)를 클릭하여 설문조사에 참여할 수 있습니다.
+[구글 설문 링크](https://forms.gle/Cj27NJiLH2WhC9ru7)를 클릭하여 설문조사에 참여할 수 있습니다.
