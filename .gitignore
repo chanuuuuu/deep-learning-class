@@ -1,4 +1,6 @@
 dists/*
-datasets/*
+dataset/*
 .ipynb_checkpoints/*
 .DS_store
+models/*
+weights/*
