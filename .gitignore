@@ -4,3 +4,6 @@ dataset/*
 .DS_store
 models/*
 weights/*
+
+cropped_dataset/*
+kill_log_models/*
